@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "nombre": "Agujas para tatuaje",
+        "descripcion": "Conjunto de agujas esterilizadas de acero inoxidable para realizar tatuajes con precisión. Ideales para líneas finas y detalles.",
+        "precio": 1500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "agujas"
+    },
+    {
+        "id": 2,
+        "nombre": "Tinta para tatuaje",
+        "descripcion": "Tinta de alta calidad y pigmentación duradera para realizar tatuajes. Disponible en una amplia gama de colores vibrantes.",
+        "precio": 2500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "tinta"
+    },
+    {
+        "id": 3,
+        "nombre": "Papel film para tatuaje",
+        "descripcion": "Película de protección transparente para cubrir y proteger los tatuajes recién realizados. Ayuda a prevenir infecciones y garantiza una cicatrización adecuada.",
+        "precio": 3500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "papel_film"
+    },
+    {
+        "id": 4,
+        "nombre": "Anestesia para tatuaje",
+        "descripcion": "Anestésico tópico en crema para adormecer temporalmente la piel antes de realizar un tatuaje. Proporciona alivio del dolor y reduce las molestias durante el proceso.",
+        "precio": 4500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "anestesia"
+    },
+    {
+        "id": 5,
+        "nombre": "Puntas de tatuaje",
+        "descripcion": "Juego de puntas de acero inoxidable de varios tamaños para diferentes estilos de tatuaje. Proporciona precisión y control durante el proceso de tatuado.",
+        "precio": 2000,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "accesorios"
+    },
+    {
+        "id": 6,
+        "nombre": "Máquina de tatuaje",
+        "descripcion": "Máquina de tatuaje profesional con motor de alta potencia y ajuste de velocidad. Diseñada para líneas nítidas y sombreados suaves.",
+        "precio": 12000,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "maquinas"
+    },
+    {
+        "id": 7,
+        "nombre": "Crema para cuidado del tatuaje",
+        "descripcion": "Crema hidratante especializada para cuidar y mantener los tatuajes. Ayuda a mantener los colores vibrantes y a prevenir la sequedad de la piel.",
+        "precio": 3000,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "cuidado"
+    },
+    {
+        "id": 8,
+        "nombre": "Guantes de tatuaje",
+        "descripcion": "Guantes desechables de látex o nitrilo para proteger al artista y al cliente durante el proceso de tatuaje. Disponibles en diferentes tamaños.",
+        "precio": 500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "accesorios"
+    },
+    {
+        "id": 9,
+        "nombre": "Stencil para tatuaje",
+        "descripcion": "Papel de transferencia térmica para crear una plantilla del diseño de tatuaje en la piel. Permite una precisión y reproducción exacta del diseño.",
+        "precio": 1000,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "accesorios"
+    },
+    {
+        "id": 10,
+        "nombre": "Lámpara de tatuaje",
+        "descripcion": "Lámpara de iluminación LED ajustable para proporcionar una luz brillante y enfocada durante el proceso de tatuaje. Permite una mayor visibilidad del área de trabajo.",
+        "precio": 8000,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "accesorios"
+    },
+    {
+        "id": 11,
+        "nombre": "Pedal de tatuaje",
+        "descripcion": "Pedal de control para máquinas de tatuaje. Permite encender y apagar la máquina de forma fácil y práctica, dejando las manos libres para el trabajo artístico.",
+        "precio": 1500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "accesorios"
+    },
+    {
+        "id": 12,
+        "nombre": "Caja de tintas",
+        "descripcion": "Caja organizadora para almacenar y mantener ordenadas las tintas de tatuaje. Diseñada con compartimentos individuales para facilitar el acceso y la selección de colores.",
+        "precio": 4000,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "accesorios"
+    }
+]

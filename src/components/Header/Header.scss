@@ -1,0 +1,50 @@
+
+.header {
+    background-color: rgba(74, 74, 74, 0.78);
+    font-family: "Pirata One", cursive;
+    font-style: normal;
+
+    .header__container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 20px 0;
+        font-weight: 150;
+        display: grid;
+        place-items: center;
+        .header__logo {
+            font-size: 40px;
+            font-weight: 700;
+            color: white;
+        }
+
+        .logo_blanco {
+            height: 100px;
+            width: 100px;
+            &:hover {
+                transform: rotatey(360deg);
+                transition: 2s;
+                animation-timing-function: ease-out;
+            }
+        }
+
+        .logo_carrito {
+            width: 50px;
+            height: 50px;
+        }
+        
+        
+
+        .header__nav {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+
+            .header__link {
+                color: white;
+                font-size: 18px;
+                text-transform: uppercase;
+                text-decoration: none;
+            }
+        }
+    }
+}
